@@ -20,8 +20,8 @@ StegoCrypt is a **Python-based steganography tool** that allows users to **secur
 ## 🔧 Installation & Usage  
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/StegoCrypt.git
-cd StegoCrypt
+git clone https://github.com/Baig-fatema/AICTE_2025_Edunet_Stego_Project.git
+cd AICTE_2025_Edunet_Stego_Projec
 ```
 ### 2️⃣ Install Dependencies
 ```bash
