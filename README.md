@@ -29,11 +29,11 @@ pip install opencv-python
 ```
 ### 3️⃣ Run the Encryption Script
 ```bash
-python stego_encrypt.py
+python stego.py
 ```
 ### 4️⃣ Run the Decryption Script
 ```bash
-python stego_decrypt.py
+python stego.py
 ```
 ## 📜 How It Works
 ### 1️⃣ The user inputs a secret message and password.
